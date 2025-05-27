@@ -1,7 +1,10 @@
+
+
 # 🚀 Project Name
 
-A brief description of your project goes here.  
-(e.g., A full-stack web application for task management, powered by Docker and Docker Compose.)
+A smart, AI-driven dashboard designed to help classify customer risk levels and optimize the management of **ICT accounts receivable**. This tool uses predictive analytics and visual insights to support faster decision-making and reduce financial risk in enterprise operations.
+
+---
 
 ---
 
